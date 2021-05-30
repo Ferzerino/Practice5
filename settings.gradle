@@ -1,0 +1,5 @@
+rootProject.name = "ru.mirea.zgarbov.practice5"
+include ':app'
+include ':accelerometer'
+include ':camera'
+include ':audiorecord'
